@@ -190,21 +190,21 @@ http://localhost:5173
 
 # 🎥 Demo
 
-(Optional: add screenshots or video)
+### Screenshots
 
-Example:
+![Home Page](./screenShots/1.png)
 
-```
-/screenShots/1.png
-/screenShots/2.png
-/screenShots/3.png
-/screenShots/4.png
-/screenShots/5.png
-/screenShots/6.png
-/screenShots/7.png
-```
+![Dashboard](./screenShots/2.png)
 
----
+![Upload Image](./screenShots/3.png)
+
+![Drag and Drop Upload](./screenShots/4.png)
+
+![Component Selection](./screenShots/5.png)
+
+![Zoom Controls](./screenShots/6.png)
+
+![Diagram Viewer](./screenShots/7.png)
 
 # 📈 Evaluation Criteria Covered
 
