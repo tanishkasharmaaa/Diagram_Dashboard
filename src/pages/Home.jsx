@@ -7,7 +7,6 @@ function Home() {
   return (
     <div className="home">
 
-      {/* animated background */}
       <div className="bg-animation"></div>
 
       <div className="circle circle1"></div>
