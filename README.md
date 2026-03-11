@@ -149,7 +149,7 @@ git clone <repository-url>
 Navigate to the project folder:
 
 ```
-cd circuitvision-dashboard
+cd diagram-dashboard
 ```
 
 Install dependencies:
@@ -195,8 +195,13 @@ http://localhost:5173
 Example:
 
 ```
-/screenshots/home.png
-/screenshots/dashboard.png
+/screenShots/1.png
+/screenShots/2.png
+/screenShots/3.png
+/screenShots/4.png
+/screenShots/5.png
+/screenShots/6.png
+/screenShots/7.png
 ```
 
 ---
