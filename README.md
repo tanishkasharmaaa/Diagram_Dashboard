@@ -230,18 +230,3 @@ Frontend Developer | React Enthusiast
 This project is for educational and assessment purposes.
 
 ---
-
-✅ **Tip before submitting the assignment**
-
-Add **two screenshots in README**:
-
-```
-screenshots/home.png
-screenshots/dashboard.png
-```
-
-It makes the repo **look much more professional to reviewers**.
-
----
-
-If you want, I can also give you a **much more impressive GitHub README version (with badges, GIF demo, and professional sections)** that makes your repository **look like a production-level project.**
