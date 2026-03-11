@@ -1,6 +1,4 @@
-Here is a **complete professional README** you can directly put in your GitHub repository. It is written in a **clean structure that interviewers like**.
 
----
 
 # ⚡ CircuitVision – Diagram Dashboard
 
