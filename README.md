@@ -188,6 +188,9 @@ http://localhost:5173
 
 # 🎥 Demo
 
+### Video 
+![Checkout Demo Video](https://drive.google.com/file/d/1qhO-d5-UHaKj0iGFI5wXZ0SOznQ36h4j/view?usp=sharing)
+
 ### Screenshots
 
 ![Home Page](./screenShots/1.png)
